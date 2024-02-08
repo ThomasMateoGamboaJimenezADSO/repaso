@@ -28,11 +28,13 @@
     list-style-type: none;
     margin: 10;
     padding: 10;
+    background-color: antiquewhite;
 }
 
 .menu__item {
     display: inline-block;
     margin-right: 10px;
+    background-color: aqua;
 }
 
 .menu__link {
